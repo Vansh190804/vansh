@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"name": "firstone",
+			"path": "../java/firstone"
+		},
+		{
+			"name": "gym",
+			"path": "../gym"
+		},
+		{
+			"name": "Web D",
+			"path": "../Web D"
+		},
+		{
+			"path": "../Netflix/netflix"
+		},
+		{
+			"path": "../Faulty calculator"
+		},
+		{
+			"path": "../Calculator"
+		},
+		{
+			"path": "../Buisness name generator"
+		},
+		{
+			"path": "../factorial"
+		},
+		{
+			"path": "../DOM box"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"java.debug.settings.onBuildFailureProceed": true,
+		"liveServer.settings.multiRootWorkspaceName": "netflix"
+	}
+}
